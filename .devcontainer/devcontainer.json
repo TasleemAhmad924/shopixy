@@ -13,7 +13,8 @@
         "dbaeumer.vscode-eslint",
         "esbenp.prettier-vscode",
         "mgmcdermott.vscode-language-babel",
-        "formulahendry.auto-rename-tag"
+        "formulahendry.auto-rename-tag",
+        "ms-azuretools.vscode-docker"
       ]
     }
   },
